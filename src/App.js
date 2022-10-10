@@ -14,7 +14,15 @@ function App() {
         </main>
 
         <footer className="App-footer">
-          <small>Coded by Sara</small>
+          <small>
+            <a
+              href="https://github.com/bruhhshawn/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Coded by Sara
+            </a>
+          </small>
         </footer>
       </div>
     </div>
